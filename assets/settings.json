@@ -1,0 +1,28 @@
+{
+  "business": {
+    "name": "Meghal Ahuja • MUA",
+    "city": "India",
+    "areas": "On-location & destinations",
+    "hours": "Mon–Sun 9:00–20:00",
+    "phone": "+91 98765 43210",
+    "email": "hello@example.com",
+    "instagram": "https://instagram.com/meghalahuja.mua"
+  },
+  "services": [
+    {
+      "name": "Bridal HD Makeup",
+      "price": "₹14,999",
+      "desc": "Skin prep, HD base, hair styling, draping & premium lashes."
+    },
+    {
+      "name": "Party / Occasion",
+      "price": "₹3,999",
+      "desc": "Soft glam, dewy skin or bold looks for events."
+    },
+    {
+      "name": "Photoshoot / Editorial",
+      "price": "₹7,999",
+      "desc": "Camera-ready looks for studio & outdoor shoots."
+    }
+  ]
+}
